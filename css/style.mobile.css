@@ -1,0 +1,83 @@
+/* header */
+
+.header nav h1 {
+    float: none;
+    text-align: center;
+}
+
+.header nav ul {
+    float: none;
+}
+.header nav ul li {
+    float: none;
+}
+
+.header nav ul li a {
+    padding: 10px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+/* vp */
+
+.vp{
+    padding-top: 50px;
+}
+.vp-content {
+  padding-top: 62px;  
+}
+.vp-content h1 {
+    font-size: 2rem;
+}
+    
+
+ /* features */
+ 
+ .feature{
+    float: none;
+    width: 100%;
+    margin-bottom: 2rem;
+ }
+ /* where */
+
+ .where{
+    padding: 110px 0px 100px 0;
+ }
+ .where-img {
+    float: none;
+    width: 100%;
+    padding: 0px 15px 15px 0px.
+}
+.where-text {
+    float: none;
+    width: 100%;
+    padding-right: 80px;
+}
+
+
+.underline {
+    margin-top: 0px;
+    text-align: center;
+}
+.my-20 {
+  margin-left: 20px;
+}
+#email{
+    margin-left: 20px;
+}
+#name{
+    margin-left: 20px;
+}
+#question{
+    margin-left: 20px;
+}
+.btn-dark {
+ margin-left: 130px;
+ margin-top: 30px;
+}
